@@ -1,0 +1,190 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "Mehdi CEO — Entrepreneur, e-commerce & marketing digital",
+      "description": "Site officiel de Mehdi CEO, fondateur d'Ecom Billionaire. Entrepreneur basé à Marrakech, spécialisé en e-commerce, marketing digital et création de business.",
+      "jobTitle": "Entrepreneur"
+    },
+    "about": {
+      "title": "À propos — Mehdi CEO",
+      "description": "Biographie, parcours et expertise de Mehdi CEO, entrepreneur marocain fondateur d'Ecom Billionaire et créateur de contenu sur l'entrepreneuriat.",
+      "jobTitle": "Entrepreneur"
+    }
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skipToContent": "Aller au contenu principal",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "mainNav": "Navigation principale",
+    "language": "Langue"
+  },
+  "Footer": {
+    "tagline": "Entrepreneur · E-commerce · Marketing digital",
+    "rights": "Tous droits réservés.",
+    "socialLinks": "Réseaux sociaux",
+    "legalNote": "Informations basées sur des sources publiques. Contenu évolutif."
+  },
+  "HomePage": {
+    "hero": {
+      "eyebrow": "Entrepreneur · Marrakech, Maroc",
+      "title": "Mehdi CEO",
+      "subtitle": "Fondateur d'Ecom Billionaire. J'aide les entrepreneurs à construire, marketer et scaler leurs projets digitaux.",
+      "ctaAbout": "Découvrir mon parcours",
+      "ctaContact": "Me contacter"
+    },
+    "aboutPreview": {
+      "title": "Qui est Mehdi CEO ?",
+      "description": "Entrepreneur marocain basé à Marrakech, Mehdi CEO est le fondateur d'Ecom Billionaire, une initiative éducative dédiée à l'e-commerce et à l'entrepreneuriat digital. Diplômé en commerce international de l'Université Internationale de Rabat, il partage publiquement ses réflexions sur la construction de business, le marketing et l'apprentissage.",
+      "link": "Lire la biographie complète"
+    },
+    "expertise": {
+      "title": "Domaines d'expertise",
+      "subtitle": "Compétences et centres d'intérêt documentés publiquement."
+    },
+    "timeline": {
+      "title": "Parcours",
+      "subtitle": "Étapes clés vérifiées à partir de sources publiques."
+    },
+    "framework": {
+      "title": "Le système des 4C",
+      "subtitle": "Méthode d'apprentissage partagée publiquement par Mehdi CEO pour maîtriser rapidement une nouvelle compétence.",
+      "steps": {
+        "choose": {
+          "title": "Choisir",
+          "description": "Définir consciemment ce que l'on souhaite apprendre, plutôt que de laisser les algorithmes décider."
+        },
+        "consume": {
+          "title": "Consommer",
+          "description": "S'informer via des sources de qualité : livres, formations ou accompagnement personnalisé."
+        },
+        "consolidate": {
+          "title": "Consolider",
+          "description": "Structurer les acquis dans une mindmap simple pour ancrer la compréhension."
+        },
+        "confront": {
+          "title": "Confronter",
+          "description": "Mettre en pratique via des actions concrètes et mesurer les résultats dans la réalité."
+        }
+      }
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "subtitle": "Réponses factuelles aux questions les plus courantes."
+    }
+  },
+  "AboutPage": {
+    "title": "À propos de Mehdi CEO",
+    "intro": "Entrepreneur marocain, Mehdi CEO construit et markete des projets digitaux depuis plusieurs années. Il est reconnu publiquement sous la marque personnelle « Mehdi CEO » et interagit également sous le nom Mehdi West sur certaines plateformes.",
+    "biography": {
+      "title": "Biographie",
+      "paragraphs": {
+        "origin": "Basé à Marrakech, Mehdi CEO s'est engagé tôt dans l'entrepreneuriat et le marketing digital. Son parcours académique inclut une licence en commerce international obtenue à l'Université Internationale de Rabat (UIR), entre 2020 et 2022.",
+        "career": "En octobre 2023, il fonde Ecom Billionaire, une initiative éducative orientée vers l'e-commerce, le marketing et le développement de business en ligne. À travers cette plateforme et ses contenus publics, il partage des réflexions sur l'entrepreneuriat, l'apprentissage et la vision long terme.",
+        "philosophy": "Dans ses publications publiques, Mehdi CEO met l'accent sur l'importance d'une vision long terme, de l'impact et de l'accomplissement plutôt que sur la recherche de revenus à court terme sans perspective durable.",
+        "placeholder": "[Biographie détaillée à compléter — informations antérieures à 2020 non vérifiées publiquement.]"
+      }
+    },
+    "expertise": {
+      "title": "Expertise"
+    },
+    "timeline": {
+      "title": "Chronologie"
+    },
+    "values": {
+      "title": "Principes",
+      "items": {
+        "longTerm": {
+          "title": "Vision long terme",
+          "description": "Construire des projets pensés pour durer et créer un impact durable."
+        },
+        "learning": {
+          "title": "Apprentissage actif",
+          "description": "Apprendre de façon structurée et confronter rapidement la théorie à la pratique."
+        },
+        "transparency": {
+          "title": "Transparence",
+          "description": "Partager ouvertement des réflexions et des méthodes de travail."
+        }
+      }
+    },
+    "social": {
+      "title": "Présence en ligne",
+      "placeholder": "[Lien à compléter]"
+    }
+  },
+  "Expertise": {
+    "ecommerce": {
+      "title": "E-commerce",
+      "description": "Création, lancement et développement de boutiques en ligne et de modèles e-commerce."
+    },
+    "digital-marketing": {
+      "title": "Marketing digital",
+      "description": "Stratégies d'acquisition, publicité sur les réseaux sociaux et optimisation de la visibilité."
+    },
+    "entrepreneurship": {
+      "title": "Entrepreneuriat",
+      "description": "Conception, lancement et pivot de projets entrepreneuriaux orientés digital."
+    },
+    "business-building": {
+      "title": "Construction de business",
+      "description": "Développement de modèles économiques, scaling et structuration d'activités."
+    },
+    "learning-systems": {
+      "title": "Systèmes d'apprentissage",
+      "description": "Méthodes structurées pour acquérir rapidement de nouvelles compétences, dont le système des 4C."
+    }
+  },
+  "Timeline": {
+    "education": {
+      "title": "Licence en commerce international",
+      "description": "Université Internationale de Rabat (UIR), Maroc."
+    },
+    "entrepreneurship": {
+      "title": "Début de l'activité entrepreneuriale",
+      "description": "[Date et détails à compléter — parcours antérieur non entièrement documenté publiquement.]"
+    },
+    "ecom-billionaire": {
+      "title": "Fondation d'Ecom Billionaire",
+      "description": "Lancement d'une initiative éducative dédiée à l'e-commerce et à l'entrepreneuriat digital."
+    },
+    "public-content": {
+      "title": "Contenus publics sur l'entrepreneuriat",
+      "description": "Partage régulier de réflexions et méthodes sur LinkedIn et d'autres plateformes."
+    }
+  },
+  "Faq": {
+    "who-is-mehdi": {
+      "question": "Qui est Mehdi CEO ?",
+      "answer": "Mehdi CEO est un entrepreneur marocain basé à Marrakech, fondateur d'Ecom Billionaire. Il est également connu sous le nom Mehdi West sur certaines plateformes en ligne. Il partage publiquement des contenus sur l'e-commerce, le marketing digital et l'entrepreneuriat."
+    },
+    "what-is-ecom-billionaire": {
+      "question": "Qu'est-ce qu'Ecom Billionaire ?",
+      "answer": "Ecom Billionaire est une initiative éducative fondée par Mehdi CEO en octobre 2023, orientée vers l'e-commerce, le marketing digital et le développement de business en ligne. Elle est accessible via la plateforme Skool."
+    },
+    "expertise-areas": {
+      "question": "Quels sont ses domaines d'expertise ?",
+      "answer": "D'après ses profils et contenus publics, Mehdi CEO intervient principalement dans l'e-commerce, le marketing digital, l'entrepreneuriat, la construction de business et les systèmes d'apprentissage structuré."
+    },
+    "where-based": {
+      "question": "Où est-il basé ?",
+      "answer": "Mehdi CEO est basé à Marrakech, Maroc, selon ses profils LinkedIn publics."
+    },
+    "how-to-contact": {
+      "question": "Comment le contacter ?",
+      "answer": "Vous pouvez le retrouver sur LinkedIn (linkedin.com/in/mehdiwest) ou via la communauté Ecom Billionaire sur Skool. [Email et autres coordonnées à compléter.]"
+    }
+  },
+  "Social": {
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "skool": "Ecom Billionaire (Skool)",
+    "youtube": "YouTube",
+    "instagram": "Instagram"
+  },
+  "Common": {
+    "readMore": "En savoir plus",
+    "backToHome": "Retour à l'accueil"
+  }
+}
