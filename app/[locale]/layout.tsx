@@ -5,9 +5,21 @@ import { notFound } from "next/navigation";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Noto_Sans_Arabic } from "next/font/google";
 import { routing } from "@/config/i18n/routing";
+import { siteConfig } from "@/config/site";
+import { siteIcons, siteManifest } from "@/lib/seo/icons";
 import { getDirection } from "@/types";
 import type { Locale } from "@/types";
+import type { Metadata } from "next";
 import "../globals.css";
+
+export const metadata: Metadata = {
+  metadataBase: new URL(siteConfig.url),
+  icons: siteIcons,
+  manifest: siteManifest,
+  appleWebApp: {
+    title: siteConfig.name,
+  },
+};
 
 const geistSans = Geist({
   variable: "--font-geist-sans",

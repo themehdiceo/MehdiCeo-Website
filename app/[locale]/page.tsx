@@ -1,19 +1,18 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import { Header } from "@/components/layout/Header";
-import { Footer } from "@/components/layout/Footer";
+import { PageShell } from "@/components/layout/PageShell";
 import { HeroSection } from "@/components/sections/HeroSection";
-import { AboutPreviewSection } from "@/components/sections/AboutPreviewSection";
-import { ExpertiseSection } from "@/components/sections/ExpertiseSection";
+import { IntroSection } from "@/components/sections/IntroSection";
 import { TimelineSection } from "@/components/sections/TimelineSection";
-import { FrameworkSection } from "@/components/sections/FrameworkSection";
+import { EcomBillionaireSection } from "@/components/sections/EcomBillionaireSection";
+import { PasHighTicketSection } from "@/components/sections/PasHighTicketSection";
+import { VideoPreviewSection } from "@/components/sections/VideoPreviewSection";
 import { FaqSection } from "@/components/sections/FaqSection";
-import { JsonLd } from "@/components/seo/JsonLd";
 import {
   createFaqSchema,
   createPersonSchema,
   createWebSiteSchema,
 } from "@/seo";
-import { faqIds, expertiseIds } from "@/content";
+import { homepageFaqIds, expertiseIds } from "@/content";
 import { createPageMetadata } from "@/seo/metadata";
 import type { Locale } from "@/types";
 
@@ -38,14 +37,17 @@ export default async function HomePage({ params }: HomePageProps) {
   const tFaq = await getTranslations({ locale, namespace: "Faq" });
   const tExpertise = await getTranslations({ locale, namespace: "Expertise" });
 
-  const faqItems = faqIds.map((id) => ({
+  const faqItems = homepageFaqIds.map((id) => ({
     question: tFaq(`${id}.question`),
     answer: tFaq(`${id}.answer`),
   }));
 
-  const knowsAbout = expertiseIds.map((id) =>
-    tExpertise(`${id}.title`),
-  );
+  const knowsAbout = [
+    "E-commerce",
+    "Ecom Billionaire",
+    "PAS High Ticket",
+    ...expertiseIds.map((id) => tExpertise(`${id}.title`)),
+  ];
 
   const structuredData = [
     createWebSiteSchema({
@@ -62,18 +64,14 @@ export default async function HomePage({ params }: HomePageProps) {
   ];
 
   return (
-    <>
-      <JsonLd data={structuredData} />
-      <Header />
-      <main id="main-content">
-        <HeroSection />
-        <AboutPreviewSection />
-        <ExpertiseSection />
-        <TimelineSection />
-        <FrameworkSection />
-        <FaqSection />
-      </main>
-      <Footer />
-    </>
+    <PageShell structuredData={structuredData}>
+      <HeroSection />
+      <IntroSection />
+      <TimelineSection preview />
+      <EcomBillionaireSection />
+      <PasHighTicketSection />
+      <VideoPreviewSection />
+      <FaqSection limit={4} />
+    </PageShell>
   );
 }

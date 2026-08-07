@@ -1,33 +1,19 @@
 "use client";
 
-import { useState } from "react";
 import { useTranslations } from "next-intl";
-import { Link, usePathname } from "@/lib/i18n/navigation";
-import { navigationItems } from "@/config/site";
+import { primaryNavigation } from "@/config/routes";
 import { LanguageSwitcher } from "@/components/ui/LanguageSwitcher";
+import { Link, usePathname } from "@/lib/i18n/navigation";
+import { siteConfig } from "@/config/site";
 
 export function Navigation() {
   const t = useTranslations("Navigation");
   const pathname = usePathname();
-  const [isOpen, setIsOpen] = useState(false);
 
   return (
     <nav aria-label={t("mainNav")}>
-      <button
-        type="button"
-        className="inline-flex items-center justify-center rounded-md border border-border px-3 py-2 text-sm font-medium md:hidden"
-        aria-expanded={isOpen}
-        aria-controls="primary-navigation"
-        onClick={() => setIsOpen((open) => !open)}
-      >
-        {isOpen ? t("closeMenu") : t("openMenu")}
-      </button>
-
-      <ul
-        id="primary-navigation"
-        className={`${isOpen ? "flex" : "hidden"} absolute inset-x-0 top-full z-50 flex-col gap-1 border-b border-border bg-background p-4 shadow-sm md:static md:flex md:flex-row md:items-center md:gap-6 md:border-0 md:bg-transparent md:p-0 md:shadow-none`}
-      >
-        {navigationItems.map((item) => {
+      <ul className="hidden items-center gap-1 lg:flex">
+        {primaryNavigation.map((item) => {
           const isActive =
             item.href === "/"
               ? pathname === "/"
@@ -37,23 +23,55 @@ export function Navigation() {
             <li key={item.href}>
               <Link
                 href={item.href}
-                className={`block rounded-md px-3 py-2 text-sm font-medium transition-colors ${
+                className={`rounded-md px-3 py-2 text-sm font-medium transition-colors ${
                   isActive
                     ? "text-accent"
                     : "text-foreground hover:text-accent"
                 }`}
                 aria-current={isActive ? "page" : undefined}
-                onClick={() => setIsOpen(false)}
               >
                 {t(item.labelKey)}
               </Link>
             </li>
           );
         })}
-        <li className="md:ms-auto">
+        <li className="ms-2">
           <LanguageSwitcher />
         </li>
       </ul>
+
+      <details className="relative lg:hidden">
+        <summary className="cursor-pointer list-none rounded-md border border-border px-3 py-2 text-sm font-medium">
+          {t("openMenu")}
+        </summary>
+        <ul className="absolute end-0 z-50 mt-2 min-w-48 rounded-md border border-border bg-background p-2 shadow-lg">
+          {primaryNavigation.map((item) => (
+            <li key={item.href}>
+              <Link
+                href={item.href}
+                className="block rounded-md px-3 py-2 text-sm hover:bg-surface"
+              >
+                {t(item.labelKey)}
+              </Link>
+            </li>
+          ))}
+          <li className="border-t border-border px-3 py-2">
+            <LanguageSwitcher />
+          </li>
+        </ul>
+      </details>
     </nav>
+  );
+}
+
+export function SiteBrand() {
+  return (
+    <Link
+      href="/"
+      className="text-lg font-semibold tracking-tight text-foreground"
+      aria-label={siteConfig.name}
+    >
+      {siteConfig.name}
+    </Link>
   );
 }

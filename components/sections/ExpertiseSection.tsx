@@ -1,22 +1,16 @@
 import { useTranslations } from "next-intl";
 import { expertiseIds } from "@/content";
-import { SectionHeading } from "@/components/ui/SectionHeading";
 
 export function ExpertiseSection() {
-  const t = useTranslations("HomePage.expertise");
   const tExpertise = useTranslations("Expertise");
+  const tPage = useTranslations("ExpertisePage");
 
   return (
-    <section
-      aria-labelledby="expertise-title"
-      className="border-y border-border bg-surface py-20"
-    >
+    <section aria-labelledby="expertise-grid-title" className="pb-20">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-        <SectionHeading
-          id="expertise-title"
-          title={t("title")}
-          subtitle={t("subtitle")}
-        />
+        <h2 id="expertise-grid-title" className="sr-only">
+          {tPage("title")}
+        </h2>
         <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {expertiseIds.map((id) => (
             <li

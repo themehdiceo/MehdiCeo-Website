@@ -1,96 +1,234 @@
 {
   "Metadata": {
     "home": {
-      "title": "Mehdi CEO — Entrepreneur, e-commerce & marketing digital",
-      "description": "Site officiel de Mehdi CEO, fondateur d'Ecom Billionaire. Entrepreneur basé à Marrakech, spécialisé en e-commerce, marketing digital et création de business.",
-      "jobTitle": "Entrepreneur"
+      "title": "Mehdi CEO (themehdiceo) — Entrepreneur e-commerce et fondateur d'Ecom Billionaire",
+      "description": "Site officiel de Mehdi CEO (@themehdiceo) — entrepreneur e-commerce, fondateur d'Ecom Billionaire et créateur de l'approche PAS High Ticket.",
+      "keywords": "Mehdi CEO, themehdiceo, e-commerce, entrepreneur, Ecom Billionaire, PAS High Ticket, Maroc",
+      "jobTitle": "Entrepreneur e-commerce"
     },
     "about": {
-      "title": "À propos — Mehdi CEO",
-      "description": "Biographie, parcours et expertise de Mehdi CEO, entrepreneur marocain fondateur d'Ecom Billionaire et créateur de contenu sur l'entrepreneuriat.",
-      "jobTitle": "Entrepreneur"
+      "title": "Qui est Mehdi CEO ? Parcours et biographie officielle",
+      "description": "Biographie officielle de Mehdi CEO (@themehdiceo) : début en e-commerce en septembre 2021, création de marques, fondation d'Ecom Billionaire et approche PAS High Ticket.",
+      "keywords": "Mehdi CEO biographie, parcours entrepreneur, e-commerce, themehdiceo, Ecom Billionaire"
+    },
+    "journey": {
+      "title": "Parcours de Mehdi CEO — Chronologie e-commerce",
+      "description": "Chronologie du parcours entrepreneurial de Mehdi CEO : de septembre 2021 à Ecom Billionaire et PAS High Ticket.",
+      "keywords": "Mehdi CEO parcours, timeline entrepreneur, e-commerce parcours, themehdiceo"
+    },
+    "ecomBillionaire": {
+      "title": "Ecom Billionaire — L'accompagnement créé par Mehdi CEO",
+      "description": "Présentation d'Ecom Billionaire, l'accompagnement e-commerce fondé par Mehdi CEO : sélection limitée, modèle aligné sur les résultats.",
+      "keywords": "Ecom Billionaire, Mehdi CEO, accompagnement e-commerce, themehdiceo"
+    },
+    "pasHighTicket": {
+      "title": "PAS High Ticket — L'approche e-commerce de Mehdi CEO",
+      "description": "Découvrez PAS High Ticket, le cadre d'enseignement de Mehdi CEO pour l'e-commerce à panier moyen élevé : offre, positionnement et acquisition.",
+      "keywords": "PAS High Ticket, Mehdi CEO, e-commerce high ticket, themehdiceo"
+    },
+    "expertise": {
+      "title": "Expertise de Mehdi CEO — E-commerce et marketing",
+      "description": "Domaines d'expertise de Mehdi CEO : e-commerce, high ticket, marketing digital, entrepreneuriat, construction de business et coaching.",
+      "keywords": "Mehdi CEO expertise, e-commerce, marketing digital, business building, themehdiceo"
+    },
+    "resources": {
+      "title": "Ressources Mehdi CEO — Guides et contenus e-commerce",
+      "description": "Accédez aux ressources de Mehdi CEO (@themehdiceo) : expertise, vidéos YouTube, FAQ et futurs articles autour de l'e-commerce.",
+      "keywords": "Mehdi CEO ressources, guides e-commerce, entrepreneuriat, themehdiceo"
+    },
+    "videos": {
+      "title": "Vidéos de Mehdi CEO sur l'e-commerce et l'entrepreneuriat",
+      "description": "Chaîne YouTube officielle de Mehdi CEO (@themehdiceo) : contenus sur l'e-commerce, le marketing et l'entrepreneuriat.",
+      "keywords": "Mehdi CEO YouTube, themehdiceo, vidéos e-commerce, entrepreneur"
+    },
+    "faq": {
+      "title": "FAQ Mehdi CEO — Ecom Billionaire et PAS High Ticket",
+      "description": "Réponses aux questions fréquentes sur Mehdi CEO, son identité @themehdiceo, Ecom Billionaire, PAS High Ticket et son parcours e-commerce.",
+      "keywords": "Mehdi CEO FAQ, questions entrepreneur, Ecom Billionaire, PAS High Ticket"
+    },
+    "contact": {
+      "title": "Contacter Mehdi CEO — Profils officiels @themehdiceo",
+      "description": "Retrouvez Mehdi CEO sur LinkedIn, Instagram et YouTube. Les comptes @themehdiceo sont les profils officiels pour toute prise de contact professionnelle.",
+      "keywords": "Mehdi CEO contact, LinkedIn, Instagram, YouTube, themehdiceo"
+    },
+    "blog": {
+      "title": "Blog Mehdi CEO — Guides et biographie officielle",
+      "description": "Articles fondateurs de Mehdi CEO (@themehdiceo) : biographie officielle, Ecom Billionaire et PAS High Ticket — contenus approfondis autour de l'e-commerce.",
+      "keywords": "Mehdi CEO blog, articles e-commerce, entrepreneuriat, themehdiceo"
+    },
+    "videoDetail": {
+      "title": "Vidéo — Mehdi CEO",
+      "description": "Vidéo de Mehdi CEO (@themehdiceo) sur l'e-commerce, l'entrepreneuriat et la construction de business."
+    },
+    "legal": {
+      "title": "Mentions légales — Mehdi CEO (themehdiceo.com)",
+      "description": "Mentions légales du site themehdiceo.com, site officiel de Mehdi CEO. Informations éditeur et hébergeur — version provisoire en attente de compléments.",
+      "keywords": "Mehdi CEO mentions légales, themehdiceo, site officiel"
+    },
+    "privacy": {
+      "title": "Politique de confidentialité — Mehdi CEO (themehdiceo.com)",
+      "description": "Politique de confidentialité du site themehdiceo.com. Traitement des données et droits des utilisateurs — version provisoire en attente de compléments.",
+      "keywords": "Mehdi CEO confidentialité, themehdiceo, politique de confidentialité"
     }
   },
   "Navigation": {
     "home": "Accueil",
     "about": "À propos",
+    "journey": "Parcours",
+    "expertise": "Expertise",
+    "ecomBillionaire": "Ecom Billionaire",
+    "pasHighTicket": "PAS High Ticket",
+    "resources": "Ressources",
+    "videos": "Vidéos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "blog": "Blog",
     "skipToContent": "Aller au contenu principal",
-    "openMenu": "Ouvrir le menu",
+    "openMenu": "Menu",
     "closeMenu": "Fermer le menu",
     "mainNav": "Navigation principale",
     "language": "Langue"
   },
   "Footer": {
-    "tagline": "Entrepreneur · E-commerce · Marketing digital",
+    "tagline": "Entrepreneur e-commerce · Ecom Billionaire · PAS High Ticket",
     "rights": "Tous droits réservés.",
     "socialLinks": "Réseaux sociaux",
-    "legalNote": "Informations basées sur des sources publiques. Contenu évolutif."
+    "explore": "Explorer",
+    "legalNote": "Contenu basé sur les informations fournies par Mehdi CEO. Les résultats en business varient selon l'exécution, le marché et le capital disponible."
   },
   "HomePage": {
     "hero": {
-      "eyebrow": "Entrepreneur · Marrakech, Maroc",
+      "eyebrow": "Entrepreneur e-commerce · themehdiceo",
       "title": "Mehdi CEO",
-      "subtitle": "Fondateur d'Ecom Billionaire. J'aide les entrepreneurs à construire, marketer et scaler leurs projets digitaux.",
+      "role": "Entrepreneur e-commerce et fondateur d'Ecom Billionaire",
+      "subtitle": "Je construis des marques e-commerce, développe des systèmes d'acquisition et accompagne un nombre limité d'entrepreneurs via Ecom Billionaire — avec un modèle aligné sur les résultats.",
       "ctaAbout": "Découvrir mon parcours",
+      "ctaEcom": "Ecom Billionaire",
       "ctaContact": "Me contacter"
     },
-    "aboutPreview": {
-      "title": "Qui est Mehdi CEO ?",
-      "description": "Entrepreneur marocain basé à Marrakech, Mehdi CEO est le fondateur d'Ecom Billionaire, une initiative éducative dédiée à l'e-commerce et à l'entrepreneuriat digital. Diplômé en commerce international de l'Université Internationale de Rabat, il partage publiquement ses réflexions sur la construction de business, le marketing et l'apprentissage.",
-      "link": "Lire la biographie complète"
-    },
-    "expertise": {
-      "title": "Domaines d'expertise",
-      "subtitle": "Compétences et centres d'intérêt documentés publiquement."
+    "intro": {
+      "title": "Un parcours construit dans l'e-commerce",
+      "p1": "Mehdi CEO a commencé à apprendre le business et à se lancer dans l'e-commerce en septembre 2021, en ciblant initialement les marchés européens. Les premiers résultats étaient réels, mais encore modestes.",
+      "p2": "Progressivement, il a développé plusieurs marques e-commerce et délégué les opérations quotidiennes à des équipes, pour se concentrer davantage sur la stratégie, la croissance et de nouveaux projets.",
+      "p3": "Fin 2023 / début 2024, face à de nombreuses offres de formation e-commerce peu qualitatives, il a créé Ecom Billionaire — un accompagnement plus impliqué, dont les incitations sont alignées sur les résultats des participants.",
+      "link": "Lire la biographie complète",
+      "articleLink": "Qui est Mehdi CEO ? — biographie officielle"
     },
     "timeline": {
-      "title": "Parcours",
-      "subtitle": "Étapes clés vérifiées à partir de sources publiques."
-    },
-    "framework": {
-      "title": "Le système des 4C",
-      "subtitle": "Méthode d'apprentissage partagée publiquement par Mehdi CEO pour maîtriser rapidement une nouvelle compétence.",
-      "steps": {
-        "choose": {
-          "title": "Choisir",
-          "description": "Définir consciemment ce que l'on souhaite apprendre, plutôt que de laisser les algorithmes décider."
+      "title": "Parcours en bref",
+      "subtitle": "Les étapes clés du parcours entrepreneurial de Mehdi CEO.",
+      "previewTitle": "Parcours en bref",
+      "previewSubtitle": "Quelques étapes clés — la chronologie complète est sur la page parcours.",
+      "link": "Lire la chronologie complète",
+      "preview": {
+        "start-2021": {
+          "title": "Premiers pas en e-commerce",
+          "description": "Apprentissage du business et lancement en septembre 2021, marchés européens — résultats modestes mais réels."
         },
-        "consume": {
-          "title": "Consommer",
-          "description": "S'informer via des sources de qualité : livres, formations ou accompagnement personnalisé."
+        "family-turning-point": {
+          "title": "Un engagement total",
+          "description": "Un tournant familial pousse Mehdi CEO à se consacrer pleinement à l'e-commerce."
         },
-        "consolidate": {
-          "title": "Consolider",
-          "description": "Structurer les acquis dans une mindmap simple pour ancrer la compréhension."
+        "first-30000": {
+          "title": "Premiers 30 000 $ en trois mois",
+          "description": "Résultat personnel communiqué par Mehdi CEO — environ 10 000 $ par mois sur la période."
         },
-        "confront": {
-          "title": "Confronter",
-          "description": "Mettre en pratique via des actions concrètes et mesurer les résultats dans la réalité."
+        "ecom-billionaire": {
+          "title": "Création d'Ecom Billionaire",
+          "description": "Fin 2023 / début 2024 — un accompagnement e-commerce aligné sur les résultats."
         }
       }
     },
+    "ecomBillionaire": {
+      "title": "Ecom Billionaire",
+      "subtitle": "Un accompagnement e-commerce à incitations alignées",
+      "intro": "Ecom Billionaire est l'initiative fondée par Mehdi CEO pour proposer un accompagnement plus impliqué que les formations classiques — sans frais de coaching initial, avec une participation aux ventes générées.",
+      "points": {
+        "selection": {
+          "title": "Sélection limitée",
+          "description": "Mehdi CEO sélectionne jusqu'à cinq personnes par mois pour un accompagnement personnalisé et suivi de près."
+        },
+        "noUpfrontFee": {
+          "title": "Sans frais de coaching initial",
+          "description": "L'accompagnement est proposé sans frais de coaching payés d'avance par le participant."
+        },
+        "revenueShare": {
+          "title": "10 % des ventes",
+          "description": "En échange, Mehdi CEO reçoit 10 % des ventes générées par le participant — un modèle qui aligne les intérêts des deux parties."
+        },
+        "coInvestment": {
+          "title": "Co-investissement possible",
+          "description": "Lorsque le participant génère ses premières ventes et démontre une traction réelle, Mehdi CEO peut commencer à co-investir avec lui en publicité et en croissance."
+        },
+        "capital": {
+          "title": "Capital initial requis",
+          "description": "Les participants doivent disposer d'un capital suffisant pour lancer leur business et financer la publicité — condition essentielle pour démarrer."
+        }
+      },
+      "disclaimer": "Ecom Billionaire ne garantit aucun résultat. Les performances dépendent de l'exécution, du marché, de l'offre et du capital disponible. Tous les participants ne reçoivent pas nécessairement un co-investissement.",
+      "link": "En savoir plus sur Ecom Billionaire",
+      "capacityNote": "Sélection limitée : jusqu'à {count} participants par mois · {percent} % des ventes"
+    },
+    "pasHighTicket": {
+      "title": "PAS High Ticket",
+      "subtitle": "L'approche e-commerce de Mehdi CEO",
+      "intro": "PAS High Ticket est le cadre de positionnement et d'enseignement de Mehdi CEO pour l'e-commerce à panier moyen élevé — basé sur des produits à plus forte valeur, une offre bien construite et une acquisition rentable.",
+      "pillars": {
+        "highTicket": {
+          "title": "Produits à forte valeur",
+          "description": "L'approche repose sur la vente de produits à plus haute valeur unitaire, ce qui peut modifier les équilibres économiques d'un business e-commerce."
+        },
+        "offer": {
+          "title": "Sélection et positionnement de l'offre",
+          "description": "Le choix du produit, la proposition de valeur et le positionnement sont au cœur de la méthode — avant toute dépense publicitaire significative."
+        },
+        "acquisition": {
+          "title": "Acquisition rentable",
+          "description": "L'accent est mis sur des systèmes d'acquisition mesurables et une publicité rentable, adaptés aux offres high ticket."
+        },
+        "margins": {
+          "title": "Marges et expérience client",
+          "description": "Des marges suffisantes et une expérience client soignée permettent de soutenir la croissance et la réputation de la marque."
+        }
+      },
+      "note": "PAS High Ticket est le nom public de l'approche de Mehdi CEO. Il ne s'agit pas d'une méthode brevetée ou scientifiquement certifiée. Le sens de l'acronyme PAS n'est pas détaillé publiquement.",
+      "link": "Découvrir PAS High Ticket"
+    },
+    "videos": {
+      "title": "Vidéos",
+      "subtitle": "Contenus e-commerce et entrepreneuriat sur la chaîne officielle @themehdiceo",
+      "watch": "Regarder",
+      "link": "Voir toutes les vidéos"
+    },
     "faq": {
       "title": "Questions fréquentes",
-      "subtitle": "Réponses factuelles aux questions les plus courantes."
+      "subtitle": "Réponses factuelles aux questions les plus courantes.",
+      "link": "Voir toutes les questions"
     }
   },
   "AboutPage": {
     "title": "À propos de Mehdi CEO",
-    "intro": "Entrepreneur marocain, Mehdi CEO construit et markete des projets digitaux depuis plusieurs années. Il est reconnu publiquement sous la marque personnelle « Mehdi CEO » et interagit également sous le nom Mehdi West sur certaines plateformes.",
+    "intro": "Mehdi CEO est un entrepreneur e-commerce reconnu publiquement sous la marque Mehdi CEO. Il développe des marques en ligne, accompagne des entrepreneurs via Ecom Billionaire et enseigne son approche PAS High Ticket.",
+    "brandIdentity": {
+      "title": "Identité digitale officielle",
+      "body": "themehdiceo est l'identité digitale officielle de Mehdi CEO — le nom du site (themehdiceo.com), le handle @themehdiceo sur Instagram et YouTube, et le profil LinkedIn /in/mehdiceo. C'est le point de référence public pour retrouver Mehdi CEO en ligne."
+    },
     "biography": {
       "title": "Biographie",
       "paragraphs": {
-        "origin": "Basé à Marrakech, Mehdi CEO s'est engagé tôt dans l'entrepreneuriat et le marketing digital. Son parcours académique inclut une licence en commerce international obtenue à l'Université Internationale de Rabat (UIR), entre 2020 et 2022.",
-        "career": "En octobre 2023, il fonde Ecom Billionaire, une initiative éducative orientée vers l'e-commerce, le marketing et le développement de business en ligne. À travers cette plateforme et ses contenus publics, il partage des réflexions sur l'entrepreneuriat, l'apprentissage et la vision long terme.",
-        "philosophy": "Dans ses publications publiques, Mehdi CEO met l'accent sur l'importance d'une vision long terme, de l'impact et de l'accomplissement plutôt que sur la recherche de revenus à court terme sans perspective durable.",
-        "placeholder": "[Biographie détaillée à compléter — informations antérieures à 2020 non vérifiées publiquement.]"
-      }
+        "identity": "Mehdi CEO est connu publiquement comme entrepreneur e-commerce. Son activité combine la création et le développement de marques en ligne, le marketing digital et l'accompagnement d'un nombre limité d'entrepreneurs.",
+        "brand": "Sous l'identité themehdiceo, il partage son expérience sur ses réseaux sociaux officiels et via ce site — toujours avec un ton factuel, sans promesses de résultats garantis.",
+        "focus": "Aujourd'hui, son attention se porte sur l'e-commerce, la construction de business, Ecom Billionaire (accompagnement sélectionné, modèle aligné sur les ventes) et l'enseignement de PAS High Ticket pour l'e-commerce à panier moyen élevé.",
+        "approach": "Mehdi CEO présente un parcours réel et orienté exécution. Les chiffres cités sur ce site sont des résultats personnels communiqués par le fondateur — ils ne constituent pas une garantie pour d'autres."
+      },
+      "journeyLink": "Consulter la chronologie détaillée",
+      "articleLink": "Lire la biographie officielle complète"
     },
     "expertise": {
-      "title": "Expertise"
-    },
-    "timeline": {
-      "title": "Chronologie"
+      "title": "Expertise",
+      "link": "Explorer l'expertise en détail"
     },
     "values": {
       "title": "Principes",
@@ -99,92 +237,492 @@
           "title": "Vision long terme",
           "description": "Construire des projets pensés pour durer et créer un impact durable."
         },
-        "learning": {
-          "title": "Apprentissage actif",
-          "description": "Apprendre de façon structurée et confronter rapidement la théorie à la pratique."
+        "execution": {
+          "title": "Exécution",
+          "description": "Passer rapidement de la théorie à la pratique dans l'e-commerce et le marketing."
         },
         "transparency": {
-          "title": "Transparence",
-          "description": "Partager ouvertement des réflexions et des méthodes de travail."
+          "title": "Alignement sur les résultats",
+          "description": "Partager publiquement un parcours réel et proposer des modèles d'accompagnement alignés sur les performances."
         }
       }
     },
     "social": {
-      "title": "Présence en ligne",
-      "placeholder": "[Lien à compléter]"
+      "title": "Profils officiels"
+    }
+  },
+  "JourneyPage": {
+    "title": "Parcours entrepreneurial",
+    "intro": "Cette page retrace la chronologie détaillée du parcours e-commerce de Mehdi CEO — tournants, étapes et évolutions — à partir des informations qu'il a communiquées directement.",
+    "sourceNote": "Les dates exactes ne sont mentionnées que lorsqu'elles ont été confirmées par Mehdi CEO.",
+    "disclaimer": "Les résultats financiers cités sont des faits personnels communiqués par Mehdi CEO. Ils ne constituent pas une garantie de performance pour d'autres personnes.",
+    "articleLink": "Lire la biographie officielle complète",
+    "chapters": {
+      "start-2021": {
+        "title": "Septembre 2021 — Les débuts",
+        "paragraphs": [
+          "En septembre 2021, Mehdi CEO commence à apprendre le business en parallèle de sa vie quotidienne. Il se lance dans l'e-commerce en ciblant initialement les marchés européens — une approche classique pour tester des offres et comprendre les mécanismes d'acquisition.",
+          "Les premiers mois sont une phase d'apprentissage intensif : mise en place de boutiques, tests publicitaires, compréhension de la logistique et des attentes clients. Les résultats existent, mais restent modestes — ce qui est cohérent avec un démarrage sans capital important ni expérience préalable longue.",
+          "Cette période pose les bases techniques et mentales du parcours : patience, itération et capacité à apprendre sur le terrain plutôt que de chercher une formule instantanée."
+        ]
+      },
+      "family-turning-point": {
+        "title": "Le tournant familial",
+        "paragraphs": [
+          "Dans les mois qui suivent le lancement, la famille de Mehdi CEO traverse une période difficile : son père connaît des difficultés professionnelles sérieuses. Le contexte familial rend la situation plus urgente et plus exigeante.",
+          "Mehdi CEO prend alors une décision claire : réussir en business n'est plus une option parmi d'autres, mais une nécessité. Il s'engage pleinement dans l'e-commerce, augmente son temps consacré à l'exécution et à l'apprentissage.",
+          "Ce tournant ne transforme pas les résultats du jour au lendemain, mais il change la dynamique : priorisation, focus et intensité du travail quotidien."
+        ]
+      },
+      "first-30000": {
+        "title": "Premiers 30 000 $ sur trois mois",
+        "paragraphs": [
+          "Après cette période d'engagement renforcé, Mehdi CEO génère ses premiers 30 000 dollars US sur une période de trois mois — soit environ 10 000 dollars par mois. Il s'agit d'un résultat personnel qu'il a lui-même communiqué.",
+          "Ce seuil marque une étape importante dans son parcours : validation que l'exécution combinée à une offre et un marché adaptés peut produire des revenus significatifs. Après cette période, les résultats ont continué à progresser selon ses propres termes.",
+          "Ce chiffre ne doit pas être lu comme une promesse ou une norme : chaque parcours e-commerce dépend du marché, de l'offre, du capital disponible et de l'exécution individuelle."
+        ]
+      },
+      "multiple-brands": {
+        "title": "Développement de plusieurs marques",
+        "paragraphs": [
+          "Fort de cette traction initiale, Mehdi CEO développe progressivement plusieurs marques e-commerce. Chaque projet lui permet d'affiner sa compréhension des marchés, des offres et des canaux d'acquisition.",
+          "La diversification n'est pas un objectif en soi : elle résulte d'une volonté de tester, d'apprendre et de construire des systèmes reproductibles. L'expérience accumulée sur différents segments enrichit sa pratique opérationnelle.",
+          "Cette phase consolide son expertise terrain — loin des discours théoriques — et prépare la structuration qui suivra."
+        ]
+      },
+      "delegation": {
+        "title": "Délégation et structuration",
+        "paragraphs": [
+          "Au fil de la croissance, Mehdi CEO délègue les opérations quotidiennes de ses marques à des employés et des membres d'équipe. Logistique, service client, gestion courante : des fonctions progressivement externalisées en interne.",
+          "Cette délégation lui libère du temps pour la stratégie, le développement de nouvelles offres et la réflexion sur des modèles d'accompagnement plus ambitieux.",
+          "Le passage de l'opérateur solo au dirigeant qui structure des équipes est un tournant fréquent dans les parcours e-commerce — et un prérequis pour scaler sans épuisement."
+        ]
+      },
+      "ecom-billionaire": {
+        "title": "Fin 2023 / début 2024 — Ecom Billionaire",
+        "paragraphs": [
+          "En observant le marché des formations e-commerce en ligne, Mehdi CEO constate un volume important d'offres peu qualitatives. Il décide de créer Ecom Billionaire fin 2023 / début 2024 — un accompagnement plus impliqué, avec des incitations alignées sur les résultats des participants.",
+          "Le modèle repose sur une sélection limitée (jusqu'à cinq personnes par mois), l'absence de frais de coaching initial et une participation de 10 % aux ventes générées. Un co-investissement publicitaire peut être envisagé lorsque la traction est démontrée — sans garantie pour tous.",
+          "Ecom Billionaire n'est pas présenté comme une formule magique : c'est un cadre d'accompagnement exigeant, réservé à des profils disposant de capital et prêts à exécuter."
+        ]
+      },
+      "pas-high-ticket": {
+        "title": "Développement de PAS High Ticket",
+        "paragraphs": [
+          "Parallèlement à Ecom Billionaire, Mehdi CEO structure et enseigne son approche sous le nom PAS High Ticket — un cadre pour l'e-commerce à panier moyen élevé, centré sur l'offre, le positionnement, l'acquisition et la publicité rentable.",
+          "PAS High Ticket est le nom public de son approche pédagogique. Il ne s'agit pas d'une méthode brevetée ni d'un système « secret » : c'est un cadre de réflexion et d'exécution que Mehdi CEO partage via ses contenus et ses accompagnements.",
+          "Cette approche complète le parcours opérationnel accumulé depuis 2021 et oriente son enseignement vers des modèles économiques où la qualité de l'offre et les marges comptent autant que le volume."
+        ]
+      }
+    }
+  },
+  "EcomBillionairePage": {
+    "title": "Ecom Billionaire",
+    "intro": "Ecom Billionaire est l'accompagnement e-commerce fondé par Mehdi CEO. Face à de nombreuses formations peu qualitatives, il a voulu proposer un modèle plus impliqué — avec des incitations alignées sur les résultats réels des participants.",
+    "sections": {
+      "why": {
+        "title": "Pourquoi Ecom Billionaire",
+        "description": "Mehdi CEO a créé Ecom Billionaire fin 2023 / début 2024, après avoir constaté un grand nombre d'offres de formation e-commerce en ligne de faible qualité. L'objectif est de proposer un accompagnement plus proche du terrain, avec un intérêt partagé dans les résultats."
+      },
+      "whoFor": {
+        "title": "Pour qui",
+        "description": "Ecom Billionaire s'adresse à des personnes disposant d'un capital initial suffisant pour lancer un business e-commerce et financer la publicité, et prêtes à s'engager dans l'exécution."
+      },
+      "selection": {
+        "title": "Sélection limitée",
+        "description": "Mehdi CEO sélectionne jusqu'à cinq personnes par mois. Cette limitation permet un suivi personnalisé et un accompagnement de proximité — elle ne garantit pas l'acceptation de toute candidature."
+      },
+      "noUpfrontFee": {
+        "title": "Sans frais de coaching initial",
+        "description": "L'accompagnement est proposé sans frais de coaching payés d'avance. Mehdi CEO investit son temps en amont, en échange d'une participation aux ventes générées."
+      },
+      "revenueShare": {
+        "title": "10 % des ventes",
+        "description": "Mehdi CEO reçoit 10 % des ventes générées par le participant. Ce modèle aligne ses intérêts avec ceux du participant : plus les ventes progressent, plus les deux parties en bénéficient."
+      },
+      "coInvestment": {
+        "title": "Co-investissement publicitaire",
+        "description": "Lorsque le participant génère ses premières ventes et démontre une traction réelle, Mehdi CEO peut commencer à co-investir avec lui en publicité et en croissance. Ce co-investissement n'est pas automatique ni garanti pour tous les participants."
+      },
+      "capital": {
+        "title": "Capital initial indispensable",
+        "description": "Les participants doivent disposer d'un capital suffisant pour lancer leur business et financer la publicité. Sans capital de départ, il est difficile de tester une offre et de générer des données utiles."
+      }
+    },
+    "disclaimer": "Ecom Billionaire ne garantit aucun résultat financier. Les performances varient selon l'exécution, le marché, l'offre, le capital disponible et de nombreux facteurs externes. Tous les participants ne deviennent pas rentables et tous ne reçoivent pas un co-investissement. Aucun témoignage ni étude de cas n'est présenté sans source vérifiée.",
+    "articleLink": "Pourquoi Mehdi CEO a créé Ecom Billionaire — l'article complet"
+  },
+  "PasHighTicketPage": {
+    "title": "PAS High Ticket",
+    "intro": "PAS High Ticket est le cadre de positionnement et d'enseignement de Mehdi CEO pour l'e-commerce à panier moyen élevé. Il s'agit du nom public de son approche — pas d'une méthode brevetée ou d'un système « secret ».",
+    "sections": {
+      "what": {
+        "title": "Qu'est-ce que PAS High Ticket",
+        "description": "PAS High Ticket est le nom sous lequel Mehdi CEO enseigne et structure son approche de l'e-commerce high ticket. Il couvre la sélection d'offres à forte valeur, le positionnement, l'acquisition et la publicité rentable."
+      },
+      "difference": {
+        "title": "High ticket vs low ticket",
+        "description": "Contrairement au e-commerce low ticket — où les marges unitaires sont faibles et le volume de ventes doit être élevé — l'approche high ticket repose sur des produits à plus forte valeur. Cela peut modifier les équilibres économiques et les exigences en acquisition."
+      },
+      "unitEconomics": {
+        "title": "Économie unitaire",
+        "description": "Des produits à plus haute valeur permettent, en théorie, de supporter des coûts d'acquisition plus élevés tout en conservant des marges viables. Cela ne garantit pas la rentabilité — l'exécution reste déterminante."
+      },
+      "offer": {
+        "title": "Qualité de l'offre",
+        "description": "Le choix du produit, la proposition de valeur et le positionnement sont des fondations essentielles. Une offre mal construite reste difficile à scaler, quel que soit le ticket moyen."
+      },
+      "acquisition": {
+        "title": "Acquisition et marges",
+        "description": "L'approche PAS High Ticket met l'accent sur des systèmes d'acquisition mesurables, des marges suffisantes et une expérience client cohérente avec le positionnement de l'offre."
+      }
+    },
+    "note": "PAS High Ticket est présenté par Mehdi CEO comme son approche publique de l'e-commerce high ticket. Il ne s'agit pas d'une marque déposée, d'une méthode brevetée ou d'un système scientifiquement prouvé, sauf preuve ultérieure. Le sens de l'acronyme PAS n'est pas détaillé publiquement.",
+    "articleLink": "Qu'est-ce que PAS High Ticket ? — l'article complet"
+  },
+  "ExpertisePage": {
+    "title": "Expertise",
+    "intro": "Mehdi CEO développe son expertise à travers la pratique de l'e-commerce, le marketing digital, la création de marques, la délégation opérationnelle et l'accompagnement d'entrepreneurs via Ecom Billionaire."
+  },
+  "ResourcesPage": {
+    "title": "Ressources",
+    "intro": "Point d'entrée vers les contenus, guides et supports de Mehdi CEO (@themehdiceo) autour de l'e-commerce et de l'entrepreneuriat.",
+    "links": {
+      "expertise": {
+        "title": "Expertise",
+        "description": "Domaines de compétence : e-commerce, high ticket, marketing, entrepreneuriat et coaching."
+      },
+      "videos": {
+        "title": "Vidéos YouTube",
+        "description": "Chaîne officielle @themehdiceo — contenus vidéo sur l'e-commerce et l'entrepreneuriat."
+      },
+      "faq": {
+        "title": "FAQ",
+        "description": "Réponses aux questions les plus fréquentes sur Mehdi CEO, Ecom Billionaire et PAS High Ticket."
+      },
+      "blog": {
+        "title": "Blog",
+        "description": "Articles et guides approfondis — espace préparé pour de futurs contenus uniques."
+      }
+    }
+  },
+  "VideosPage": {
+    "title": "Vidéos",
+    "intro": "La chaîne YouTube officielle de Mehdi CEO (@themehdiceo) propose des contenus autour de l'e-commerce, du marketing digital et de l'entrepreneuriat.",
+    "watch": "Regarder",
+    "channelCta": "Visiter la chaîne YouTube",
+    "sourceNote": "Les résumés et idées clés sont rédigés à partir des titres publics YouTube et du contexte de la chaîne @themehdiceo. Ils ne remplacent pas la vidéo originale."
+  },
+  "FaqPage": {
+    "title": "Questions fréquentes",
+    "intro": "Réponses factuelles sur Mehdi CEO, son parcours, Ecom Billionaire et PAS High Ticket."
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "intro": "Pour toute prise de contact professionnelle ou collaboration, utilisez les profils officiels de Mehdi CEO ci-dessous.",
+    "brandIdentity": "themehdiceo est l'identité digitale officielle de Mehdi CEO — le site themehdiceo.com et les comptes @themehdiceo (Instagram, YouTube) ainsi que le profil LinkedIn /in/mehdiceo constituent les canaux publics de référence.",
+    "socialTitle": "Profils officiels"
+  },
+  "BlogPage": {
+    "title": "Blog",
+    "intro": "Guides fondateurs et analyses de Mehdi CEO (@themehdiceo) sur l'e-commerce, l'entrepreneuriat et ses projets actuels.",
+    "cornerstoneTitle": "Articles fondateurs",
+    "readArticle": "Lire l'article"
+  },
+  "ArticlePage": {
+    "publishedLabel": "Publié le"
+  },
+  "MehdiImages": {
+    "portraitHero": {
+      "alt": "Portrait de Mehdi CEO, entrepreneur e-commerce",
+      "title": "Mehdi CEO — themehdiceo"
+    },
+    "formalSuitEvent": {
+      "alt": "Mehdi CEO en costume lors d'un événement professionnel",
+      "title": "Mehdi CEO en tenue professionnelle"
+    },
+    "suitLuxuryCar": {
+      "alt": "Mehdi CEO en costume, profil professionnel",
+      "title": "Portrait professionnel de Mehdi CEO"
+    },
+    "outdoorNight": {
+      "alt": "Mehdi CEO en extérieur, portrait de nuit",
+      "title": "Mehdi CEO — parcours entrepreneurial"
+    },
+    "travelLounge": {
+      "alt": "Mehdi CEO dans un espace de travail moderne",
+      "title": "Mehdi CEO — entrepreneur e-commerce"
+    },
+    "casualLifestyle": {
+      "alt": "Mehdi CEO en tenue décontractée",
+      "title": "Mehdi CEO — style de vie entrepreneurial"
+    }
+  },
+  "CornerstoneLinks": {
+    "title": "Continuer la lecture",
+    "intro": "Articles fondateurs et pages essentielles du site officiel Mehdi CEO.",
+    "articlesHeading": "Articles fondateurs",
+    "pagesHeading": "Pages du site",
+    "articlesLabel": "Articles recommandés",
+    "readMore": "Lire aussi",
+    "articles": {
+      "qui-est-mehdi-ceo": "Qui est Mehdi CEO ?",
+      "pourquoi-ecom-billionaire": "Pourquoi Mehdi CEO a créé Ecom Billionaire",
+      "quest-ce-pas-high-ticket": "Qu'est-ce que PAS High Ticket ?"
     }
   },
   "Expertise": {
     "ecommerce": {
       "title": "E-commerce",
-      "description": "Création, lancement et développement de boutiques en ligne et de modèles e-commerce."
+      "description": "Création, lancement et développement de marques et boutiques en ligne — de septembre 2021 à aujourd'hui."
+    },
+    "high-ticket": {
+      "title": "E-commerce high ticket",
+      "description": "Approche PAS High Ticket : offres à forte valeur, positionnement, acquisition et publicité rentable."
     },
     "digital-marketing": {
       "title": "Marketing digital",
-      "description": "Stratégies d'acquisition, publicité sur les réseaux sociaux et optimisation de la visibilité."
+      "description": "Stratégies d'acquisition, publicité sur les réseaux sociaux et optimisation de la visibilité en ligne."
     },
     "entrepreneurship": {
       "title": "Entrepreneuriat",
-      "description": "Conception, lancement et pivot de projets entrepreneuriaux orientés digital."
+      "description": "Conception, lancement et développement de projets entrepreneuriaux orientés digital."
     },
     "business-building": {
       "title": "Construction de business",
-      "description": "Développement de modèles économiques, scaling et structuration d'activités."
+      "description": "Structuration, délégation, scaling et développement de modèles économiques en ligne."
     },
-    "learning-systems": {
-      "title": "Systèmes d'apprentissage",
-      "description": "Méthodes structurées pour acquérir rapidement de nouvelles compétences, dont le système des 4C."
+    "coaching": {
+      "title": "Coaching et accompagnement",
+      "description": "Accompagnement limité via Ecom Billionaire — modèle aligné sur les résultats, sans frais de coaching initial."
     }
   },
   "Timeline": {
-    "education": {
-      "title": "Licence en commerce international",
-      "description": "Université Internationale de Rabat (UIR), Maroc."
+    "periods": {
+      "september-2021": "Septembre 2021",
+      "family-turning-point": "Dans les mois qui suivent",
+      "first-30000": "Par la suite",
+      "multiple-brands": "Progressivement",
+      "delegation": "Progressivement",
+      "late-2023-early-2024": "Fin 2023 / début 2024",
+      "pas-development": "Par la suite"
     },
-    "entrepreneurship": {
-      "title": "Début de l'activité entrepreneuriale",
-      "description": "[Date et détails à compléter — parcours antérieur non entièrement documenté publiquement.]"
+    "start-2021": {
+      "title": "Début dans l'e-commerce",
+      "description": "Mehdi CEO commence à apprendre le business et se lance dans l'e-commerce, en ciblant initialement les marchés européens. Les premiers résultats sont réels, mais encore modestes."
+    },
+    "family-turning-point": {
+      "title": "Tournant familial",
+      "description": "Son père connaît des difficultés professionnelles sérieuses, créant une période difficile pour la famille. Mehdi CEO décide que réussir en business n'est plus une option et s'engage pleinement."
+    },
+    "first-30000": {
+      "title": "Premiers 30 000 $ en trois mois",
+      "description": "Mehdi CEO génère ses premiers 30 000 dollars US sur une période de trois mois — environ 10 000 dollars par mois. Résultat personnel communiqué par le fondateur."
+    },
+    "multiple-brands": {
+      "title": "Plusieurs marques e-commerce",
+      "description": "Au fil du temps, il construit et exploite plusieurs marques e-commerce, développant une expérience concrète sur différents marchés et offres."
+    },
+    "delegation": {
+      "title": "Délégation et structuration",
+      "description": "Il délègue progressivement les opérations quotidiennes à des employés et des équipes, pour se concentrer sur la stratégie, la croissance et de nouveaux projets."
     },
     "ecom-billionaire": {
-      "title": "Fondation d'Ecom Billionaire",
-      "description": "Lancement d'une initiative éducative dédiée à l'e-commerce et à l'entrepreneuriat digital."
+      "title": "Création d'Ecom Billionaire",
+      "description": "Face à de nombreuses formations e-commerce peu qualitatives, Mehdi CEO crée Ecom Billionaire — un accompagnement plus impliqué, avec des incitations alignées sur les résultats."
     },
-    "public-content": {
-      "title": "Contenus publics sur l'entrepreneuriat",
-      "description": "Partage régulier de réflexions et méthodes sur LinkedIn et d'autres plateformes."
+    "pas-high-ticket": {
+      "title": "Développement de PAS High Ticket",
+      "description": "Mehdi CEO structure et enseigne son approche e-commerce high ticket sous le nom PAS High Ticket — offre, positionnement, acquisition et publicité rentable."
     }
   },
   "Faq": {
     "who-is-mehdi": {
       "question": "Qui est Mehdi CEO ?",
-      "answer": "Mehdi CEO est un entrepreneur marocain basé à Marrakech, fondateur d'Ecom Billionaire. Il est également connu sous le nom Mehdi West sur certaines plateformes en ligne. Il partage publiquement des contenus sur l'e-commerce, le marketing digital et l'entrepreneuriat."
+      "answer": "Mehdi CEO est un entrepreneur e-commerce reconnu publiquement sous la marque Mehdi CEO (@themehdiceo). Il a commencé dans l'e-commerce en septembre 2021, a développé plusieurs marques, a fondé Ecom Billionaire fin 2023 / début 2024 et enseigne son approche sous le nom PAS High Ticket."
     },
     "what-is-ecom-billionaire": {
       "question": "Qu'est-ce qu'Ecom Billionaire ?",
-      "answer": "Ecom Billionaire est une initiative éducative fondée par Mehdi CEO en octobre 2023, orientée vers l'e-commerce, le marketing digital et le développement de business en ligne. Elle est accessible via la plateforme Skool."
+      "answer": "Ecom Billionaire est l'accompagnement e-commerce fondé par Mehdi CEO. Mehdi sélectionne jusqu'à cinq personnes par mois, propose un coaching sans frais initial et reçoit 10 % des ventes générées. Il peut co-investir en publicité lorsque le participant démontre une traction réelle."
     },
-    "expertise-areas": {
-      "question": "Quels sont ses domaines d'expertise ?",
-      "answer": "D'après ses profils et contenus publics, Mehdi CEO intervient principalement dans l'e-commerce, le marketing digital, l'entrepreneuriat, la construction de business et les systèmes d'apprentissage structuré."
+    "what-is-pas-high-ticket": {
+      "question": "Qu'est-ce que PAS High Ticket ?",
+      "answer": "PAS High Ticket est le cadre de positionnement et d'enseignement de Mehdi CEO pour l'e-commerce à panier moyen élevé. Il repose sur des produits à plus forte valeur, une offre bien construite, un positionnement clair et une acquisition rentable. Ce n'est pas une méthode brevetée."
     },
-    "where-based": {
-      "question": "Où est-il basé ?",
-      "answer": "Mehdi CEO est basé à Marrakech, Maroc, selon ses profils LinkedIn publics."
+    "how-started-ecommerce": {
+      "question": "Comment Mehdi CEO a-t-il commencé dans l'e-commerce ?",
+      "answer": "En septembre 2021, Mehdi CEO a commencé à apprendre le business et à se lancer dans l'e-commerce, en ciblant initialement les marchés européens. Après un tournant familial, il s'est engagé pleinement et a généré ses premiers 30 000 $ sur trois mois — un résultat personnel, pas une garantie pour d'autres."
+    },
+    "how-ecom-billionaire-works": {
+      "question": "Comment fonctionne l'accompagnement Ecom Billionaire ?",
+      "answer": "Mehdi CEO sélectionne jusqu'à cinq participants par mois disposant d'un capital initial suffisant. Il propose un coaching sans frais payés d'avance et reçoit 10 % des ventes. Lorsque le participant génère des ventes et démontre une traction, Mehdi peut co-investir en publicité. Aucun résultat n'est garanti."
+    },
+    "does-mehdi-invest": {
+      "question": "Est-ce que Mehdi CEO investit avec les participants ?",
+      "answer": "Mehdi CEO peut co-investir en publicité et en croissance lorsque le participant génère ses premières ventes et démontre une traction réelle. Ce co-investissement n'est pas automatique, n'est pas garanti pour tous les participants et dépend des résultats observés."
+    },
+    "where-to-follow": {
+      "question": "Où suivre Mehdi CEO ?",
+      "answer": "Sur LinkedIn (linkedin.com/in/mehdiceo), Instagram (@themehdiceo) et YouTube (@themehdiceo) — les profils officiels de la marque Mehdi CEO / themehdiceo."
     },
     "how-to-contact": {
-      "question": "Comment le contacter ?",
-      "answer": "Vous pouvez le retrouver sur LinkedIn (linkedin.com/in/mehdiwest) ou via la communauté Ecom Billionaire sur Skool. [Email et autres coordonnées à compléter.]"
+      "question": "Comment contacter Mehdi CEO ?",
+      "answer": "Via ses profils officiels : LinkedIn (linkedin.com/in/mehdiceo), Instagram (@themehdiceo) et YouTube (@themehdiceo). Pour toute collaboration professionnelle, utilisez ces plateformes."
+    }
+  },
+  "Videos": {
+    "items": {
+      "histoire-premiers-10000-dollars": {
+        "displayTitle": "Mon histoire avec les premiers 10 000 $ en e-commerce",
+        "summary": "Mehdi CEO partage son expérience des premières étapes en e-commerce et les leçons tirées de ses premiers revenus significatifs.",
+        "idea1": "Les débuts en e-commerce demandent du temps et de la persévérance.",
+        "idea2": "Les premiers résultats modestes font partie d'un parcours normal.",
+        "idea3": "L'apprentissage sur le terrain compte autant que la théorie."
+      },
+      "strategie-15000-dollars-ecommerce": {
+        "displayTitle": "La stratégie qui m'a rapporté plus de 15 000 $ en e-commerce",
+        "summary": "Présentation d'une approche stratégique appliquée en e-commerce, avec un retour d'expérience personnel de Mehdi CEO.",
+        "idea1": "Une stratégie claire précède la mise en œuvre publicitaire.",
+        "idea2": "Les résultats varient selon le marché, l'offre et l'exécution.",
+        "idea3": "Tester et ajuster fait partie du processus."
+      },
+      "100000-dollars-depuis-zero": {
+        "displayTitle": "Construire 100 000 $ depuis zéro en e-commerce",
+        "summary": "Réflexions de Mehdi CEO sur la construction d'un business e-commerce et les principes qui structurent une croissance progressive.",
+        "idea1": "La croissance se construit par étapes, pas du jour au lendemain.",
+        "idea2": "Le capital, l'offre et l'acquisition sont des leviers interdépendants.",
+        "idea3": "Aucun montant ne constitue une garantie de résultats futurs."
+      },
+      "reussir-business-ecommerce": {
+        "displayTitle": "Réussir un business e-commerce : principes pratiques",
+        "summary": "Mehdi CEO aborde les fondamentaux d'un business e-commerce viable — au-delà des promesses simplistes.",
+        "idea1": "L'exécution et la constance comptent plus qu'une formule unique.",
+        "idea2": "Comprendre son marché et son offre est essentiel.",
+        "idea3": "Le succès n'est jamais garanti dans l'e-commerce."
+      },
+      "abandon-etudes-ecommerce": {
+        "displayTitle": "Abandonner ses études pour l'e-commerce : réflexions",
+        "summary": "Mehdi CEO partage sa réflexion sur le choix de se consacrer à l'e-commerce — avec nuance et sans promesse de facilité.",
+        "idea1": "Ce type de décision est personnelle et contextuelle.",
+        "idea2": "L'e-commerce demande du travail, pas seulement un changement de voie.",
+        "idea3": "Il n'existe pas de chemin universel vers le succès."
+      },
+      "erreur-debutants-ecommerce": {
+        "displayTitle": "L'erreur qui freine les débutants en e-commerce",
+        "summary": "Identification d'une erreur fréquente chez les débutants en e-commerce, avec des conseils pour l'éviter.",
+        "idea1": "Se précipiter sans valider l'offre est un piège courant.",
+        "idea2": "Les débutants sous-estiment souvent l'importance de l'exécution.",
+        "idea3": "Apprendre des erreurs fait partie du parcours."
+      },
+      "verite-ecommerce": {
+        "displayTitle": "Ce que l'on ne dit pas toujours sur l'e-commerce",
+        "summary": "Mehdi CEO aborde certaines réalités de l'e-commerce que les contenus promotionnels occultent parfois.",
+        "idea1": "L'e-commerce n'est pas un revenu passif ni garanti.",
+        "idea2": "La concurrence et les coûts publicitaires sont des facteurs réels.",
+        "idea3": "La transparence sur les difficultés aide à mieux se préparer."
+      },
+      "dropshipping-vs-cod": {
+        "displayTitle": "Dropshipping ou paiement à la livraison : comparaison",
+        "summary": "Comparaison entre le dropshipping et le paiement à la livraison (COD) — deux modèles e-commerce avec des logistiques et des économies différentes.",
+        "idea1": "Chaque modèle a des avantages et des contraintes propres.",
+        "idea2": "Le choix dépend du marché, du produit et de la logistique disponible.",
+        "idea3": "Aucun modèle ne garantit la rentabilité sans une bonne exécution."
+      }
+    }
+  },
+  "VideoDetail": {
+    "relatedTitle": "Vidéos associées",
+    "sourceLabel": "Voir la vidéo sur YouTube",
+    "originalTitleLabel": "Titre original sur YouTube",
+    "keyIdeasTitle": "Idées clés",
+    "playLabel": "Lire la vidéo"
+  },
+  "LegalPage": {
+    "title": "Mentions légales",
+    "draftNotice": "Version provisoire — informations à compléter avant mise en production juridique finale.",
+    "intro": "Mentions légales du site themehdiceo.com, site officiel de Mehdi CEO. Les champs marqués [À COMPLÉTER] doivent être renseignés par le responsable avant validation juridique.",
+    "sections": {
+      "publisher": {
+        "label": "Éditeur du site",
+        "value": "[À COMPLÉTER — Raison sociale ou nom légal de l'éditeur]"
+      },
+      "editor": {
+        "label": "Directeur de la publication",
+        "value": "Mehdi CEO"
+      },
+      "hosting": {
+        "label": "Hébergeur",
+        "value": "[À COMPLÉTER — Nom, adresse et contact de l'hébergeur]"
+      },
+      "contact": {
+        "label": "Contact",
+        "value": "[À COMPLÉTER — Adresse e-mail ou formulaire de contact officiel]"
+      },
+      "placeholder": {
+        "label": "Note",
+        "value": "Ces mentions légales sont des placeholders clairement identifiés. Elles ne constituent pas un document juridique final et doivent être complétées et validées par un conseil avant utilisation en production."
+      }
+    }
+  },
+  "PrivacyPage": {
+    "title": "Politique de confidentialité",
+    "draftNotice": "Version provisoire — informations à compléter avant mise en production juridique finale.",
+    "intro": "Cette politique décrit comment le site themehdiceo.com traite les données personnelles. Version provisoire en attente de compléments juridiques.",
+    "sections": {
+      "controller": {
+        "title": "Responsable du traitement",
+        "body": "[À COMPLÉTER — Identité et coordonnées du responsable du traitement des données]"
+      },
+      "dataCollected": {
+        "title": "Données collectées",
+        "body": "Ce site statique ne propose pas de formulaire de contact intégré pour l'instant. Si des outils d'analyse ou de mesure d'audience sont ajoutés ultérieurement, cette section sera mise à jour en conséquence."
+      },
+      "purpose": {
+        "title": "Finalités du traitement",
+        "body": "[À COMPLÉTER — Finalités précises une fois les outils de mesure ou formulaires configurés]"
+      },
+      "retention": {
+        "title": "Durée de conservation",
+        "body": "[À COMPLÉTER — Durées de conservation applicables]"
+      },
+      "rights": {
+        "title": "Vos droits",
+        "body": "Conformément à la réglementation applicable, vous disposez de droits d'accès, de rectification, d'effacement et d'opposition. [À COMPLÉTER — Modalités d'exercice des droits et contact dédié]"
+      },
+      "contact": {
+        "title": "Contact confidentialité",
+        "body": "[À COMPLÉTER — Adresse e-mail ou contact pour les demandes relatives aux données personnelles]"
+      },
+      "placeholder": {
+        "title": "Note",
+        "body": "Ce document est un placeholder clairement identifié. Il ne constitue pas une politique de confidentialité finalisée et doit être complété et validé par un conseil juridique avant la mise en production."
+      }
+    }
+  },
+  "Blog": {
+    "drafts": {
+      "qui-est-mehdi-ceo": "Qui est Mehdi CEO ?",
+      "comment-a-commence-ecommerce": "Comment Mehdi CEO a commencé dans l'e-commerce",
+      "pourquoi-ecom-billionaire": "Pourquoi Mehdi CEO a créé Ecom Billionaire",
+      "quest-ce-pas-high-ticket": "Qu'est-ce que PAS High Ticket ?",
+      "ecommerce-high-ticket-principes": "E-commerce high ticket : fonctionnement et principes",
+      "erreurs-frequentes-ecommerce": "Les erreurs fréquentes en e-commerce",
+      "deleguer-marque-ecommerce": "Comment déléguer une marque e-commerce",
+      "construire-offre-forte-valeur": "Construire une offre e-commerce à forte valeur",
+      "bases-acquisition-publicitaire": "Les bases d'une acquisition publicitaire rentable",
+      "parcours-entrepreneurial-mehdi-ceo": "Le parcours entrepreneurial de Mehdi CEO"
     }
   },
   "Social": {
     "linkedin": "LinkedIn",
-    "github": "GitHub",
-    "skool": "Ecom Billionaire (Skool)",
-    "youtube": "YouTube",
-    "instagram": "Instagram"
+    "instagram": "Instagram",
+    "youtube": "YouTube"
   },
   "Common": {
     "readMore": "En savoir plus",
-    "backToHome": "Retour à l'accueil"
+    "backToHome": "Retour à l'accueil",
+    "viewSource": "Voir la source",
+    "watchVideo": "Regarder la vidéo",
+    "relatedVideos": "Vidéos associées"
   }
 }

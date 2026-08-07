@@ -1,43 +1,31 @@
+const productionSiteUrl = "https://themehdiceo.com";
+
 export const siteConfig = {
   name: "Mehdi CEO",
+  brandHandle: "themehdiceo",
   legalName: "Mehdi CEO",
-  alternateName: "Mehdi West",
   description:
-    "Entrepreneur et fondateur d'Ecom Billionaire. Expert en e-commerce, marketing digital et création de business.",
-  url: "https://mehdiceo.com",
+    "Site officiel de Mehdi CEO (@themehdiceo) — entrepreneur e-commerce, fondateur d'Ecom Billionaire et créateur de PAS High Ticket.",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? productionSiteUrl,
   locale: "fr_FR",
   location: {
-    city: "Marrakech",
-    region: "Marrakech-Safi",
     country: "MA",
     countryName: "Maroc",
   },
   organization: {
     name: "Ecom Billionaire",
-    foundedYear: 2023,
-    type: "Education",
-    url: "https://www.skool.com/ecom-billionaire-9293",
+    type: "EducationalOrganization",
+    /** Verified community URL — used as sameAs, not primary Organization url. */
+    communityUrl: "https://www.skool.com/ecom-billionaire-9293",
   },
   social: {
-    linkedin: "https://www.linkedin.com/in/mehdiwest",
-    linkedinAlt: "https://ma.linkedin.com/in/mehdiceo",
-    github: "https://github.com/MehdiCEO",
-    skool: "https://www.skool.com/ecom-billionaire-9293",
-    youtube: null as string | null,
-    instagram: null as string | null,
+    linkedin: "https://www.linkedin.com/in/mehdiceo/",
+    instagram: "https://www.instagram.com/themehdiceo/",
+    youtube: "https://www.youtube.com/@themehdiceo",
   },
-  education: {
-    degree: "Licence en commerce international",
-    institution: "Université Internationale de Rabat",
-    institutionUrl: "https://www.linkedin.com/school/universit-internationale-de-rabat",
-    startYear: 2020,
-    endYear: 2022,
+  ecomBillionaire: {
+    maxParticipantsPerMonth: 5,
+    revenueSharePercent: 10,
+    upfrontFee: false,
   },
 } as const;
-
-export const navigationItems = [
-  { href: "/", labelKey: "home" },
-  { href: "/about", labelKey: "about" },
-] as const;
-
-export type NavigationItem = (typeof navigationItems)[number];

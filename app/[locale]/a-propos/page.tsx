@@ -1,13 +1,13 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import { Header } from "@/components/layout/Header";
-import { Footer } from "@/components/layout/Footer";
+import { PageShell } from "@/components/layout/PageShell";
 import { AboutContent } from "@/components/sections/AboutContent";
-import { JsonLd } from "@/components/seo/JsonLd";
 import {
   createBreadcrumbSchema,
   createProfilePageSchema,
 } from "@/seo";
 import { createPageMetadata } from "@/seo/metadata";
+import { getPageBreadcrumbs } from "@/lib/page-utils";
+import { routes } from "@/config/routes";
 import type { Locale } from "@/types";
 
 type AboutPageProps = {
@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: AboutPageProps) {
   return createPageMetadata({
     locale,
     namespace: "Metadata.about",
-    path: "/about",
+    path: routes.about,
   });
 }
 
@@ -30,25 +30,26 @@ export default async function AboutPage({ params }: AboutPageProps) {
   const tMeta = await getTranslations({ locale, namespace: "Metadata.about" });
   const tNav = await getTranslations({ locale, namespace: "Navigation" });
 
+  const breadcrumbs = await getPageBreadcrumbs(
+    locale,
+    tNav("about"),
+    routes.about,
+  );
+
   const structuredData = [
     createProfilePageSchema({
       locale,
       description: tMeta("description"),
     }),
     createBreadcrumbSchema(locale, [
-      { name: tNav("home"), path: "" },
-      { name: tNav("about"), path: "/about" },
+      { name: tNav("home"), path: routes.home },
+      { name: tNav("about"), path: routes.about },
     ]),
   ];
 
   return (
-    <>
-      <JsonLd data={structuredData} />
-      <Header />
-      <main id="main-content">
-        <AboutContent />
-      </main>
-      <Footer />
-    </>
+    <PageShell breadcrumbs={breadcrumbs} structuredData={structuredData}>
+      <AboutContent />
+    </PageShell>
   );
 }
